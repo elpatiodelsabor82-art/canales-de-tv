@@ -81,3 +81,18 @@ https://outdoor-sportschannel-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wtG6U7j.png" group-title="Deportes", MotoAmerica TV
 https://motoamerica-roku.amagi.tv/master.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5XdVd2.png", World Poker Tour (WPT)
+https://d3w4n3hhseniak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c77d4be3f0c3331d1/WPT-us/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WqEwhVF.png", SportsGrid
+https://dikcfc9915kp8.cloudfront.net/v1/master/0bc8e0787bcf3b9f8b8b377d8746e0ae1e04a40a/SportsGrid/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G9pAFSj.png", FTF – For The Fans
+https://d2nt5wxzqbe1ad.cloudfront.net/out/v1/4e4ea35f60224d8bb2e6969d6303b4ba/index.m3u8
+
+
