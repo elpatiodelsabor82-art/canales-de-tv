@@ -60,3 +60,24 @@ https://motoamerica-roku.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oS7GB4I.png" group-title="Deportes", Horse & Country
 https://hncfree-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bKZCtZm.png" group-title="Deportes", Red Bull TV (Extreme Sports)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lVj5Xp.png" group-title="Deportes", Fuel TV
+https://fueltv-fueltv-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbuUYjw.png" group-title="Deportes", EdgeSport
+https://edgesport-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1RZzYA.png" group-title="Deportes", World Poker Tour
+https://wpt-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hXpWqv.png" group-title="Deportes", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXb0GlP.png" group-title="Deportes", Outdoor Sports Channel
+https://outdoor-sportschannel-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtG6U7j.png" group-title="Deportes", MotoAmerica TV
+https://motoamerica-roku.amagi.tv/master.m3u8
+
