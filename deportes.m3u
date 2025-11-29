@@ -1,98 +1,15 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TVE.svg" group-title="Deportes", Teledeporte (España)
-https://rtvelivestream.akamaized.net/rtvesec/tdp_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/CGTN.png" group-title="Deportes", CGTN Sports
-https://news.cgtn.com/resource/live/lan/english/cgtn-news.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Red_Bull_TV_logo.png" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/NASA_TV_logo.png" group-title="Documental", NASA TV (Canal público)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-TV/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Deutsche_Welle_logo_2012.png" group-title="Noticias", DW Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@123456/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/TV_Publica_Argentina_logo.png" group-title="General", TV Pública Deportes
-https://edge9-hr.cvattv.com.ar/live/c7eds/FoxSportsPremiumHD/SA_Live_dash_enc_2A/FoxSportsPremiumHD.m3u8
-
 #EXTINF:-1,CANAL 26 FHD
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TVE.svg" group-title="Deportes", Teledeporte (España)
-https://rtvelivestream.akamaized.net/rtvesec/tdp_main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bKZCtZm.png" group-title="Deportes", Red Bull TV (Extreme Sports)
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2fLVZxu.png" group-title="Deportes", Surf Channel
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4088
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9lVj5Xp.png" group-title="Deportes", Fuel TV
-https://fueltv-fueltv-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1Pi6F8v.png" group-title="Deportes", Real Madrid TV
-https://rmtv-stream-secure.akamaized.net/live/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbuUYjw.png" group-title="Deportes", EdgeSport
-https://edgesport-sportstribal.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tlRWktZ.png" group-title="Deportes", SportsGrid
 https://sportsgrid-plex.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1RZzYA.png" group-title="Deportes", World Poker Tour
-https://wpt-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CLsbr0d.png" group-title="Deportes", FTF (For The Fans)
-https://dai2-playlistserver.aws.syncbak.com/cpl/bonus/ngrp:ftf_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hXpWqv.png" group-title="Deportes", Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yXb0GlP.png" group-title="Deportes", Outdoor Sports Channel
-https://outdoor-sportschannel-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wtG6U7j.png" group-title="Deportes", Moto America TV
-https://motoamerica-roku.amagi.tv/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oS7GB4I.png" group-title="Deportes", Horse & Country
-https://hncfree-samsunguk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKZCtZm.png" group-title="Deportes", Red Bull TV (Extreme Sports)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9lVj5Xp.png" group-title="Deportes", Fuel TV
-https://fueltv-fueltv-1-es.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BbuUYjw.png" group-title="Deportes", EdgeSport
-https://edgesport-sportstribal.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1RZzYA.png" group-title="Deportes", World Poker Tour
-https://wpt-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6hXpWqv.png" group-title="Deportes", Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yXb0GlP.png" group-title="Deportes", Outdoor Sports Channel
-https://outdoor-sportschannel-samsung.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wtG6U7j.png" group-title="Deportes", MotoAmerica TV
-https://motoamerica-roku.amagi.tv/master.m3u8
-
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/q5XdVd2.png", World Poker Tour (WPT)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q5XdVd2.png", World Poker Tour (WPT)-
 https://d3w4n3hhseniak.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c77d4be3f0c3331d1/WPT-us/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WqEwhVF.png", SportsGrid
-https://dikcfc9915kp8.cloudfront.net/v1/master/0bc8e0787bcf3b9f8b8b377d8746e0ae1e04a40a/SportsGrid/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G9pAFSj.png", FTF – For The Fans
-https://d2nt5wxzqbe1ad.cloudfront.net/out/v1/4e4ea35f60224d8bb2e6969d6303b4ba/index.m3u8
 
 
