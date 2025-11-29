@@ -20,3 +20,43 @@ https://edge9-hr.cvattv.com.ar/live/c7eds/FoxSportsPremiumHD/SA_Live_dash_enc_2A
 
 #EXTINF:-1,CANAL 26 FHD
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TVE.svg" group-title="Deportes", Teledeporte (España)
+https://rtvelivestream.akamaized.net/rtvesec/tdp_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bKZCtZm.png" group-title="Deportes", Red Bull TV (Extreme Sports)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fLVZxu.png" group-title="Deportes", Surf Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4088
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9lVj5Xp.png" group-title="Deportes", Fuel TV
+https://fueltv-fueltv-1-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1Pi6F8v.png" group-title="Deportes", Real Madrid TV
+https://rmtv-stream-secure.akamaized.net/live/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BbuUYjw.png" group-title="Deportes", EdgeSport
+https://edgesport-sportstribal.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tlRWktZ.png" group-title="Deportes", SportsGrid
+https://sportsgrid-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y1RZzYA.png" group-title="Deportes", World Poker Tour
+https://wpt-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CLsbr0d.png" group-title="Deportes", FTF (For The Fans)
+https://dai2-playlistserver.aws.syncbak.com/cpl/bonus/ngrp:ftf_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6hXpWqv.png" group-title="Deportes", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yXb0GlP.png" group-title="Deportes", Outdoor Sports Channel
+https://outdoor-sportschannel-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wtG6U7j.png" group-title="Deportes", Moto America TV
+https://motoamerica-roku.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oS7GB4I.png" group-title="Deportes", Horse & Country
+https://hncfree-samsunguk.amagi.tv/playlist.m3u8
+
