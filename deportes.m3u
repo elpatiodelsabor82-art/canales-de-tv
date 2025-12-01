@@ -21,5 +21,8 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", Canal Institucional Colombia
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", ESPN Premium
+https://agvyby.fubohd.com/espnpremium/mono.m3u8?token=f51f6d82e607f2048f999389d2510b9670ee3c84-3-1764588899-1764570899
+
 
 
