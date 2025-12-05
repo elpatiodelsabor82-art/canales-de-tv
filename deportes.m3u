@@ -21,17 +21,29 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", Canal Institucional Colombia
 $$\text{[https://iv-h.phncdn.com/3WjODlkXcHCg1slFCGGWRH7JdN4=,1764682794/hls/c6251/videos/202511/20/30329615/720P](https://iv-h.phncdn.com/3WjODlkXcHCg1slFCGGWRH7JdN4=,1764682794/hls/c6251/videos/202511/20/30329615/720P)\_4000K\_30329615.mp4/master.m3u8?}$$
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", ESPN Premium
-https://ag9wzq.fubohd.com/espn/mono.m3u8?token=de6ee4b2cb5571b8728b3b7385250d10d6eea863-d3-1764630938-1764612938
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", ESPN 2
-https://anvtcax.fubohd.com/espn2/mono.m3u8?token=830129d1ff35f434e40d69a321738b6256d61860-4f-1764630015-1764612015
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", winsports
-https://aw1wcm92zq.fubohd.com/winsports/mono.m3u8?token=b870cc919210c4554c1dc915e5753989ab3ef962-51-1764592547-1764574547
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", PT.Claro Spor
-https://dai.google.com/linear/hls/pa/event/_OKWx76jT7mivD6d-25QAw/stream/8945ae7c-db5d-428e-b76e-9ad2be11afc7:TUL/variant/ceb67f8e411e19405b58d68ff98f86cc/bandwidth/812000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", rcn
-https://cdn77-vid.xnxx-cdn.com/dm1PGWhjMcres3QEftSkJg==,1764692795/videos/hls/c1/7a/a3/c17aa32e5c40953a99bd365a6535574a/hls-1080p-dd3e0.m3u8
-
-
-
+#EXTINF:0, Canal 10 Chetumal | HD
+#EXTINF:0, CB24
+#EXTVLCOPT:network-caching=1000
+http://18.191.91.130:1935/live/CB24/.m3u8
+#EXTINF:30, CBTV
+#EXTVLCOPT:network-caching=1000
+http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
+#EXTINF:0, Extrema TV
+#EXTVLCOPT:network-caching=1000
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0, Multimedios Costa Rica
+#EXTVLCOPT:network-caching=1000
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+#EXTINF:0, Multimedios Monterrey | HD
+#EXTVLCOPT:network-caching=1000
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0, Multimedios Torreon
+#EXTVLCOPT:network-caching=1000
+http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
+#EXTINF:0, Telemax
+#EXTVLCOPT:network-caching=1000
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:0,Tv Senado 2 SD
+#EXTVLCOPT:network-caching=1000
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
