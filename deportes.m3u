@@ -316,4 +316,4 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f4
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0, La Familia del Barrio
 #EXTVLCOPT:network-caching=1000
-https://raspy-forest-d54b.elpatiodelsabor-82.workers.dev/
+https://raspy-forest-d54b.elpatiodelsabor-82.workers.dev/?channel=5dcdde78f080d900098550e4
