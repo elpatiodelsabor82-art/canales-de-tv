@@ -7,8 +7,7 @@ https://raspy-forest-d54b.elpatiodelsabor-82.workers.dev/
 https://fragrant-wildflower-9575.elpatiodelsabor-82.workers.dev
 #EXTINF:0, La Familia del Barrio
 #EXTVLCOPT:network-caching=1000
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
+https://rough-mode-a44b.elpatiodelsabor-82.workers.dev/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Red_Bull_TV_logo.png" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,CANAL 26 FHD
