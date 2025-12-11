@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0, Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
-https://raspy-forest-d54b.elpatiodelsabor-82.workers.dev
+https://raspy-forest-d54b.elpatiodelsabor-82.workers.dev/?channel=62aa5740a47b6c000769f407
 #EXTINF:0, Daria
 #EXTVLCOPT:network-caching=1000
 https://fragrant-wildflower-9575.elpatiodelsabor-82.workers.dev
