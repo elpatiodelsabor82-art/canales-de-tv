@@ -8,9 +8,6 @@ https://fragrant-wildflower-9575.elpatiodelsabor-82.workers.dev
 #EXTINF:0, La Familia del Barrio
 #EXTVLCOPT:network-caching=1000
 https://rough-mode-a44b.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Redbull TV
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Red_Bull_TV_logo.png" group-title="Deportes", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,CANAL 26 FHD
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1, SportsGrit
