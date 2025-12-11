@@ -1,4 +1,5 @@
 #EXTM3U
+https://raspy-forest-d54b.elpatiodelsabor-82.workers.dev/?url=https://raw.githubusercontent.com/elpatiodelsabor82-art/canales-de-tv/main/deportes_pluto.m3u
 #EXTINF:0, Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
 https://raspy-forest-d54b.elpatiodelsabor-82.workers.dev/?channel=62aa5740a47b6c000769f407
