@@ -8,24 +8,19 @@ https://fragrant-wildflower-9575.elpatiodelsabor-82.workers.dev
 #EXTINF:0, La Familia del Barrio
 #EXTVLCOPT:network-caching=1000
 https://rough-mode-a44b.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Redbull TV
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Red_Bull_TV_logo.png" group-title="Deportes", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1,CANAL 26 FHD
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tlRWktZ.png" group-title="Deportes", SportsGrid
+#EXTINF:-1, SportsGrit
 https://sportsgrid-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bKZCtZm.png" group-title="Deportes", Red Bull TV (Extreme Sports)
+#EXTINF:-1, Red Bull TV (Extreme Sports)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", Red Bull TV
+#EXTINF:-1, Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", Señal Colombia
+#EXTINF:-1 , Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z3Nn1eL.png", Canal Institucional Colombia
-$$\text{[https://iv-h.phncdn.com/3WjODlkXcHCg1slFCGGWRH7JdN4=,1764682794/hls/c6251/videos/202511/20/30329615/720P](https://iv-h.phncdn.com/3WjODlkXcHCg1slFCGGWRH7JdN4=,1764682794/hls/c6251/videos/202511/20/30329615/720P)\_4000K\_30329615.mp4/master.m3u8?}$$
-#EXTINF:0, Canal 10 Chetumal | HD
-#EXTINF:0, CB24
-#EXTVLCOPT:network-caching=1000
-http://18.191.91.130:1935/live/CB24/.m3u8
 #EXTINF:30, CBTV
 #EXTVLCOPT:network-caching=1000
 http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
@@ -34,7 +29,7 @@ http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:0, Multimedios Costa Rica
 #EXTVLCOPT:network-caching=1000
-http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+https://chilevision.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Multimedios Monterrey | HD
 #EXTVLCOPT:network-caching=1000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
