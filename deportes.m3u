@@ -57,10 +57,10 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:0, LOCOMOTION
 #EXTVLCOPT:network-caching=1000
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0, Pluto TV Cine Comedia
+#EXTINF:0,  TV Cine Comedia
 #EXTVLCOPT:network-caching=1000
 https://chilevision.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cine Terror
+#EXTINF:0,  TV Cine Terror
 #EXTVLCOPT:network-caching=1000
 https://cine-terror.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Pluto TV Cine Drama
