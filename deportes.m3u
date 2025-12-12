@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, SPN 2
+#EXTINF:0, SPN +
 #EXTVLCOPT:network-caching=1000
 https://workes-tes-de-prueba.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Paramount+ Presenta
