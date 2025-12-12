@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, MTV Ridiculousness
+#EXTINF:0,Canal ESPN 2
 #EXTVLCOPT:network-caching=1000
 https://canal-mtv-ridiculus.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Estrellas de Acción
