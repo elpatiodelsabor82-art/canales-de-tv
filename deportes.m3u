@@ -2,6 +2,9 @@
 #EXTINF:0,Canal Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
 
+#EXTINF:0, MTV Classic
+#EXTVLCOPT:network-caching=1000
+https://canal-mtv-clasic.elpatiodelsabor-82.workers.dev/
 #EXTINF:0,Canal TV Series Retro
 #EXTVLCOPT:network-caching=1000
 https://canal-series-retro.elpatiodelsabor-82.workers.dev/
