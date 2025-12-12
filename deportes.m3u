@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:0, Minuto Para Ganar
+#EXTVLCOPT:network-caching=1000
+https://canal-minuto-para-ganar.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, MasterChef
 #EXTVLCOPT:network-caching=1000
 https://canal-masterchef.elpatiodelsabor-82.workers.dev/
