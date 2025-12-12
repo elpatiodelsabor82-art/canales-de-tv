@@ -14,10 +14,10 @@ https://canal-minuto-para-ganar.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, MasterChef
 #EXTVLCOPT:network-caching=1000
 https://canal-masterchef.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Vida Real
+#EXTINF:0,Canal TV Vida Real
 #EXTVLCOPT:network-caching=1000
 https://canal-vida-real.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV  Nuestro Cine
+#EXTINF:0,Canal TV  Nuestro Cine
 #EXTVLCOPT:network-caching=1000
 https://canal-nuestro-cine.elpatiodelsabor-82.workers.dev/
 #EXTINF:0,Canal Chilevision Contigo
