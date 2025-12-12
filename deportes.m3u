@@ -1,50 +1,50 @@
 #EXTM3U
-#EXTINF:0, Chilevision Contigo
+#EXTINF:0,Canal Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:0, Pluto TV Series Retro
+#EXTINF:0,Canal TV Series Retro
 #EXTVLCOPT:network-caching=1000
 https://canal-series-retro.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Historia
+#EXTINF:0, Canal TV Historia
 #EXTVLCOPT:network-caching=1000
 https://canal-tv-historia.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Nick Jr. Club
+#EXTINF:0,Canal Nick Jr. Club
 #EXTVLCOPT:network-caching=1000
 https://canal-nik-jrclub.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Nick Clásico
+#EXTINF:0,Canal Nick Clásico
 #EXTVLCOPT:network-caching=1000
 https://canal-nik-clasico.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cine Suspenso
+#EXTINF:0, Canal TV Cine Suspenso
 #EXTVLCOPT:network-caching=1000
 https://canal-cine-suspenso.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Aventura
+#EXTINF:0, Canal TV Aventura
 #EXTVLCOPT:network-caching=1000
 https://canal-tv-aventura.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Naturaleza
+#EXTINF:0, Canal TV Naturaleza
 #EXTVLCOPT:network-caching=1000
 https://canal-tv-naturaleza.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Series Latinas
+#EXTINF:0, Canal TV Series Latinas
 #EXTVLCOPT:network-caching=1000
 https://canal-series-latinas.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cine Romance
+#EXTINF:0, Canal TV Cine Romance
 #EXTVLCOPT:network-caching=1000
 https://canal-cine-romance.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cine Familia
+#EXTINF:0, Canal TV Cine Familia
 #EXTVLCOPT:network-caching=1000
 https://canal-cine-familia.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Velocidad
+#EXTINF:0, Canal TV Velocidad
 #EXTVLCOPT:network-caching=1000
 https://canal-tv-velocidad.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Kids
+#EXTINF:0, Canal TV Kids
 #EXTVLCOPT:network-caching=1000
 https://canal-tv-kids.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV  Competencias
+#EXTINF:0, Canal TV  Competencias
 #EXTVLCOPT:network-caching=1000
 https://canal-competencias.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cine Estelar
+#EXTINF:0, Canal TV Cine Estelar
 #EXTVLCOPT:network-caching=1000
 https://canal-cine-estelar.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Misterios
+#EXTINF:0, Canal TV Misterios
 #EXTVLCOPT:network-caching=1000
 https://canal-misterio.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Canal TV Junior
@@ -64,55 +64,55 @@ https://sportsgrid-plex.amagi.tv/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 ,Canal Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:30,Canal CBTV
+#EXTINF:30,Canal Canal CBTV
 #EXTVLCOPT:network-caching=1000
 http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
-#EXTINF:0, Canal Multimedios Monterrey-HD
+#EXTINF:0,Canal Canal Multimedios Monterrey-HD
 #EXTVLCOPT:network-caching=1000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0, Multimedios Torreon
+#EXTINF:0,Canal Multimedios Torreon
 #EXTVLCOPT:network-caching=1000
 http://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8?ref=http://www.multimedios.com
-#EXTINF:0, Telemax
+#EXTINF:0,Canal Telemax
 #EXTVLCOPT:network-caching=1000
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:0,Tv Senado 2 SD
+#EXTINF:0,Canal Tv Senado 2 SD
 #EXTVLCOPT:network-caching=1000
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-sd
-#EXTINF:40, MULTIMEDIOS MTY
+#EXTINF:40,Canal MULTIMEDIOS MTY
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:60, ESTRELLA TV
+#EXTINF:60,Canal ESTRELLA TV
 #EXTVLCOPT:network-caching=1000
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0, ADN40
+#EXTINF:0,Canal ADN40
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:30, CANAL 26 AGUASCALIENTES
+#EXTINF:30,Canal CANAL 26 AGUASCALIENTES
 #EXTVLCOPT:network-caching=1000
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
-#EXTINF:36, RCN
+#EXTINF:36,Canal RCN
 #EXTVLCOPT:network-caching=1000
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0, Telemundo
+#EXTINF:0,Canal Telemundo
 #EXTVLCOPT:network-caching=1000
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0, LOCOMOTION
+#EXTINF:0, Canal LOCOMOTION
 #EXTVLCOPT:network-caching=1000
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:0, Pluto TV Cine Comedia
+#EXTINF:0, Canal TV Cine Comedia
 #EXTVLCOPT:network-caching=1000
 https://cine-comedia.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cine Terror
+#EXTINF:0, Canal TV Cine Terror
 #EXTVLCOPT:network-caching=1000
 https://cine-terror.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cine Drama
+#EXTINF:0, Canal TV Cine Drama
 #EXTVLCOPT:network-caching=1000
 https://cine-drama.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Cocina
+#EXTINF:0, Canal TV Cocina
 #EXTVLCOPT:network-caching=1000
 https://tv-cosina.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Deportes
+#EXTINF:0, Canal TV Deportes
 #EXTVLCOPT:network-caching=1000
 https://canal-deportes.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Canal TV Novelas
