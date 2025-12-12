@@ -2,6 +2,15 @@
 #EXTINF:0, Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
 
+#EXTINF:0, Pluto TV Cine Romance
+#EXTVLCOPT:network-caching=1000
+https://canal-cine-romance.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Pluto TV Cine Familia
+#EXTVLCOPT:network-caching=1000
+https://canal-cine-familia.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Pluto TV Velocidad
+#EXTVLCOPT:network-caching=1000
+https://canal-tv-velocidad.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Pluto TV Kids
 #EXTVLCOPT:network-caching=1000
 https://canal-tv-kids.elpatiodelsabor-82.workers.dev/
