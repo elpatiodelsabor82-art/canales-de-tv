@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:0, Pluto TV  Nuestro Cine
+#EXTVLCOPT:network-caching=1000
+https://canal-nuestro-cine.elpatiodelsabor-82.workers.dev/
 #EXTINF:0,Canal Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
 https://tiny-fog-1484.elpatiodelsabor-82.workers.dev/
