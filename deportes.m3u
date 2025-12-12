@@ -2,7 +2,12 @@
 #EXTINF:0, Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
 
-
+#EXTINF:0, Pluto TV Naturaleza
+#EXTVLCOPT:network-caching=1000
+https://canal-tv-naturaleza.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Nick Clásico
+#EXTVLCOPT:network-caching=1000
+https://canal-nik-clasico.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Pluto TV Cine Suspenso
 #EXTVLCOPT:network-caching=1000
 https://canal-cine-suspenso.elpatiodelsabor-82.workers.dev/
