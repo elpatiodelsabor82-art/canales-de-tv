@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, Wipe Out
+#EXTVLCOPT:network-caching=1000
+https://canal-wipe-out.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, FailArmy
 #EXTVLCOPT:network-caching=1000
 https://canal-failarmy.elpatiodelsabor-82.workers.dev/
