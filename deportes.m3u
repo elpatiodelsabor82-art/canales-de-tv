@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:0, Los archivos del FBI
+#EXTVLCOPT:network-caching=1000
+https://canal-archivos-fbi.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Minuto Para Ganar
 #EXTVLCOPT:network-caching=1000
 https://canal-minuto-para-ganar.elpatiodelsabor-82.workers.dev/
