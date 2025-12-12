@@ -1,6 +1,10 @@
 #EXTM3U
-
-
+#EXTINF:0, MTV Ridiculousness
+#EXTVLCOPT:network-caching=1000
+https://canal-mtv-ridiculus.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Estrellas de Acción
+#EXTVLCOPT:network-caching=1000
+https://canal-estrellas-accion.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Los archivos del FBI
 #EXTVLCOPT:network-caching=1000
 https://canal-archivos-fbi.elpatiodelsabor-82.workers.dev/
