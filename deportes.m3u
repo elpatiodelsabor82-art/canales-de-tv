@@ -1,6 +1,19 @@
 #EXTM3U
 #EXTINF:0, Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
+
+#EXTINF:0, Pluto TV Kids
+#EXTVLCOPT:network-caching=1000
+https://canal-tv-kids.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Pluto TV  Competencias
+#EXTVLCOPT:network-caching=1000
+https://canal-competencias.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Pluto TV Cine Estelar
+#EXTVLCOPT:network-caching=1000
+https://canal-cine-estelar.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Pluto TV Misterios
+#EXTVLCOPT:network-caching=1000
+https://canal-misterio.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Canal TV Junior
 #EXTVLCOPT:network-caching=1000
 https://canal-tv-junior.elpatiodelsabor-82.workers.dev/
