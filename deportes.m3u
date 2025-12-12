@@ -75,14 +75,15 @@ https://canal-deportes.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Canal TV Novelas
 #EXTVLCOPT:network-caching=1000
 https://canal-novelas.elpatiodelsabor-82.workers.dev/
+#EXTINF:0,Canal TV 
 #EXTVLCOPT:network-caching=1000
 https://canal-series.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Anime
+#EXTINF:0, Canal TV Anime
 #EXTVLCOPT:network-caching=1000
 https://canal-animes.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Reality
+#EXTINF:0, Canal TV Reality
 #EXTVLCOPT:network-caching=1000
 https://canal-reality.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Pluto TV Investiga
+#EXTINF:0,Canal TV Investiga
 #EXTVLCOPT:network-caching=1000
 https://tv-investigacion.elpatiodelsabor-82.workers.dev/
