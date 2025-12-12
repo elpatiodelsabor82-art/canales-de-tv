@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:0, Pluto TV Sci-Fi
+#EXTVLCOPT:network-caching=1000
+https://canal-sci-fi.elpatiodelsabor-82.workers.dev/
+#EXTINF:0, Empeños a lo bestia
+#EXTVLCOPT:network-caching=1000
+https://canal-empenos-bestia.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Misterios Medicos
 #EXTVLCOPT:network-caching=1000
 https://canal-misterios-medicos.elpatiodelsabor-82.workers.dev/
