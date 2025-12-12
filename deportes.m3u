@@ -2,29 +2,24 @@
 #EXTINF:0, Chilevision Contigo
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:0, Daria
+#EXTINF:0,  Canal Daria
 #EXTVLCOPT:network-caching=1000
 https://fragrant-wildflower-9575.elpatiodelsabor-82.workers.dev
-#EXTINF:0, La Familia del Barrio
+#EXTINF:0, Canal Familia del Barrio
 #EXTVLCOPT:network-caching=1000
 https://rough-mode-a44b.elpatiodelsabor-82.workers.dev/
 #EXTINF:-1,CANAL 26 FHD
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
-#EXTINF:-1, SportsGrit
+#EXTINF:-1,Canal SportsGrit
 https://sportsgrid-plex.amagi.tv/master.m3u8
-#EXTINF:-1, Red Bull TV (Extreme Sports)
+#EXTINF:-1,Canal Red Bull TV (Extreme Sports)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1, Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 , Señal Colombia
+#EXTINF:-1 ,Canal Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-#EXTINF:30, CBTV
+#EXTINF:30,Canal CBTV
 #EXTVLCOPT:network-caching=1000
 http://streamingcws20.com:1935/cbtv/videocbtv/.m3u8?DVR
-#EXTINF:0, Extrema TV
-#EXTVLCOPT:network-caching=1000
-
-#EXTINF:0, Multimedios Monterrey | HD
+#EXTINF:0, Canal Multimedios Monterrey-HD
 #EXTVLCOPT:network-caching=1000
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:0, Multimedios Torreon
