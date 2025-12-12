@@ -1,5 +1,7 @@
 #EXTM3U
-
+#EXTINF:0, Paramount+ Presenta
+#EXTVLCOPT:network-caching=1000
+https://canal-paramoun.elpatiodelsabor-82.workers.dev/
 #EXTINF:0,Canal Historias de Ultratumba
 #EXTVLCOPT:network-caching=1000
 https://canal-ultatumba.elpatiodelsabor-82.workers.dev/
