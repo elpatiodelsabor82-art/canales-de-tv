@@ -2,7 +2,9 @@
 #EXTINF:0, SPN +
 #EXTVLCOPT:network-caching=1000
 https://workes-tes-de-prueba.elpatiodelsabor-82.workers.dev/
-
+#EXTINF:0, MTV Shore
+#EXTVLCOPT:network-caching=1000
+https://canal-mtv-shore.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, MTV Pluto TV
 #EXTVLCOPT:network-caching=1000
 https://canal-mtv.elpatiodelsabor-82.workers.dev/
