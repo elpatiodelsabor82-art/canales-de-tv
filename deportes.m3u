@@ -5,7 +5,7 @@ https://workes-tes-de-prueba.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, MTV Shore
 #EXTVLCOPT:network-caching=1000
 https://canal-mtv-shore.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, MTV Pluto TV
+#EXTINF:0,Canal MTV 
 #EXTVLCOPT:network-caching=1000
 https://canal-mtv.elpatiodelsabor-82.workers.dev/
 #EXTINF:0, Paramount+ Presenta
@@ -148,7 +148,7 @@ https://estrellatv-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Canal ADN40
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:30,Canal CANAL 26 AGUASCALIENTES
+#EXTINF:30,Canal  26 AGUASCALIENTES
 #EXTVLCOPT:network-caching=1000
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:36,Canal RCN
