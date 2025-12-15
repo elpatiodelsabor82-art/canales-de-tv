@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Prueba
 #EXTVLCOPT:network-caching=1000
-https://workes-tes-de-prueba.elpatiodelsabor-82.workers.dev/?url=https%3A%2F%2Flive.saohgdasregions.fun%3A9092%2FMTkxLjk1LjEyOC4xMjY%3D%2F56_.m3u8%3Ftoken%3DSgijWRGh-UwL8x--rV-8Hg%26expires%3D1765787218
+https://live.saohgdasregions.fun:9092/MTkxLjk1LjEyOC4xMjY=/56_3184.ts
 #EXTM3U
 #EXTINF:0,Adrenalina Pura
 #EXTVLCOPT:network-caching=1000
