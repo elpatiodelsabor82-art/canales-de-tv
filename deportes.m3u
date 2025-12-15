@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,Prueba
+#EXTVLCOPT:network-caching=1000
+https://workes-tes-de-prueba.elpatiodelsabor-rs.dev/82.worke
+#EXTM3U
 #EXTINF:0,Adrenalina Pura
 #EXTVLCOPT:network-caching=1000
 https://canal-adrenalina-pura.elpatiodelsabor-82.workers.dev/
