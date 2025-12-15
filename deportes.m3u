@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Adrenalina Pura
 #EXTVLCOPT:network-caching=1000
-https://workes-tes-de-prueba.elpatiodelsabor-82.workers.dev/
+https://canal-adrenalina-pura.elpatiodelsabor-82.workers.dev/
 #EXTVLCOPT:network-caching=1000
 https://canal-mtv-shore.elpatiodelsabor-82.workers.dev/
 #EXTINF:0,Canal MTV 
