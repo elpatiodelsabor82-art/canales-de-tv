@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,Prueba
 #EXTVLCOPT:network-caching=1000
-https://clarovideo.playsito3.boutique/embed/hbo-plus.php
+https://player.cuevana.bot/?token=3BlMNA1pBE1ZCSF0J
 #EXTM3U
 #EXTINF:0,Adrenalina Pura
 #EXTVLCOPT:network-caching=1000
