@@ -166,6 +166,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:0, Canal Estrella Tv
 #EXTVLCOPT:network-caching=1000
 https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:0, Canal para BEBES
+#EXTVLCOPT:network-caching=1000
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:0, Canal LOCOMOTION
 #EXTVLCOPT:network-caching=1000
 http://51.222.85.85:81/hls/loco/index.m3u8
