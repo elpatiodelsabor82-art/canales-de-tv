@@ -180,3 +180,6 @@ https://dai.google.com/linear/hls/pa/event/xl2VClgXQmKB5abFGlmyZQ/stream/b11814f
 #EXTINF:0,Canal 3ABN KIDS En Vivo
 #EXTVLCOPT:network-caching=1000
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:0,Canal Azteca Deportes En Vivo
+#EXTVLCOPT:network-caching=1000
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
