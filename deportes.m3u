@@ -7,9 +7,6 @@ https://canal-mtv-shore.elpatiodelsabor-82.workers.dev/
 #EXTINF:0,Canal MTV 
 #EXTVLCOPT:network-caching=1000
 https://canal-mtv.elpatiodelsabor-82.workers.dev/
-#EXTINF:0, Paramount+ Presenta
-#EXTVLCOPT:network-caching=1000
-https://canal-paramoun.elpatiodelsabor-82.workers.dev/
 #EXTINF:0,Canal Historias de Ultratumba
 #EXTVLCOPT:network-caching=1000
 https://canal-ultatumba.elpatiodelsabor-82.workers.dev/
@@ -154,29 +151,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Canal Telemundo
 #EXTVLCOPT:network-caching=1000
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:0, Canal Estrella Tv
-#EXTVLCOPT:network-caching=1000
-https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0, Canal para BEBES
-#EXTVLCOPT:network-caching=1000
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 ,Canal Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:36,Canal RCN Novelas
 #EXTVLCOPT:network-caching=1000
 https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0, Canal Caracol en vivo
-#EXTVLCOPT:network-caching=1000
-https://co-e5-p-e-tu2.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/7d55168b-2322-40e7-83a4-6b4ff6c27667:CBF2/variant/48215209b486b06c621f95db82dea5fe/bandwidth/1927200.m3u8?aid=574462d1cab0f4d50866f001&uid=5Z86YGWKkMYvQvnPY43UtEjlI6xf4tr5&sid=f40qgnh0kgH3itGgPhdLYTJOsrpVnGs5&pid=Y4hhOI7h5JTPZErXzDaOmz07sPZYFveB&pid_dvr=r1dlOebf4hyt9PcynieCjYuT10H1diIl&ref=&without_cookies=false&listenerid=&dnt=true&access_token=1xoX8JgY8i58gSPzIGcKCPb4Bu4ro8NaLolUhg8DZEhIWv549feV7jUjRDKHrZpQK7UB0ULTOHT&adInsertionGoogleStreamId=7d55168b-2322-40e7-83a4-6b4ff6c27667%3ACBF2&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D13800%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Y4hhOI7h5JTPZErXzDaOmz07sPZYFveB%22&es=co-e5-p-e-tu2.cdn.mdstrm.com&ote=1766364213268&ot=blYUNl8t9wS5VTkC9WNT-g&proto=https&pz=us
 #EXTINF:0,Canal CNN
 #EXTVLCOPT:network-caching=1000
 https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
-#EXTINF:0,Canal Once Del Zulia En Vivo
-#EXTVLCOPT:network-caching=1000
-https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
-#EXTINF:0,Canal Venevision En Vivo
-#EXTVLCOPT:network-caching=1000
-https://dai.google.com/linear/hls/pa/event/xl2VClgXQmKB5abFGlmyZQ/stream/b11814f7-80cc-4320-8623-85a8e2a082c8:TUL/variant/00af4928e54b4171c983a3dc213fe091/bandwidth/5160000.m3u8
 #EXTINF:0,Canal 3ABN KIDS En Vivo
 #EXTVLCOPT:network-caching=1000
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
