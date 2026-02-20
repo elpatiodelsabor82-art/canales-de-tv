@@ -148,6 +148,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0,Canal Telemundo
 #EXTVLCOPT:network-caching=1000
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 ,Canal TeveColombia
+https://cloud6.livescast.com:3900/live/tevecolombialive.m3u8
 #EXTINF:-1 ,Canal Señal Colombia
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:36,Canal RCN Novelas
