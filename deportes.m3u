@@ -22,7 +22,7 @@ https://movil.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co@SD",Canal 8 TV+ (720p)
 https://video.ejeserver.com/live/canal8tv.m3u8
 #EXTINF:-1 tvg-id="Canal10SOLTV.co@SD",Canal 10 SOL TV (1080p)
-http://190.211.140.89:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8
+https://canal-empenos-bestia.elpatiodelsabor-82.workers.dev/?url=http://45.167.3.81:45000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-id="Canal14Codazzi.co@SD",Canal 14 Codazzi (720p) [Not 24/7]
 https://eu1.servers10.com:8081/8056/index.m3u8
 #EXTINF:-1 tvg-id="Canal55TelemoriscoTV.co@SD",Canal 55 Telemorisco TV (720p)
