@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="mytime" tvg-name="MyTime" tvg-logo="https://i.imgur.com/MyTime.png" group-title="💕 Novelas",MyTime
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+#EXTINF:-1 tvg-id="kanal-d-drama" tvg-name="Kanal D Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Kanal_D_logo.svg/512px-Kanal_D_logo.svg.png" group-title="💕 Novelas",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Telemundo_logo_2018.svg/512px-Telemundo_logo_2018.svg.png" group-title="🌍 Internacional",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Orden-106",106. MyTime Movie Network ✅ ✅
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimespanish-runtimees/playlist.m3u8
+#EXTINF:-1 group-title="Orden-038",038. CHTV ✅ ✅
+https://viewhn.com/chtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="ATNTelevision.co@SD",ATN Televisión (720p) [Not 24/7]
 https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="AvivamientoTV.co@SD",Avivamiento TV (1080p) [Not 24/7]
