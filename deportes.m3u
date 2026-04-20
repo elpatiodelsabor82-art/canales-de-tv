@@ -15,8 +15,8 @@ https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
 #EXTINF:-1 tvg-id="BendicionChannel.co@HD",Bendicion Channel (720p)
 https://s.emisoras.tv:8081/bendicionchannel/index.m3u8
-#EXTINF:-1 tvg-id="BUMTelevision.co@SD",BUM Televisión (720p) [Not 24/7]
-https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 channel-id="6759ee82bd523200083b4f0f" tvg-id="6759ee82bd523200083b4f0f" tvg-chno="1443" tvg-name="Avatar: La Leyenda de Aang" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Kids", Avatar: La Leyenda de Aang
+https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-id="BUMTelevision.co@SD",BUM Televisión (720p) [Not 24/7]
 https://video.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co@SD",Cablenoticias (1080p)
